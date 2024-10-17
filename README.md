@@ -5,7 +5,11 @@ Fitness Tracker is a web application designed to help users log their workouts, 
 
 ## Admin Credentials for Live Frontend App
 - *Email*: admin@gmail.com
-- *Password*: admin@123
+- *Password*: 123456
+
+ ## User Credentials for Live Frontend App
+- *Email*: user@gmail.com
+-*Password*: 123456
 
 ## Features
 - User authentication (login and signup)
